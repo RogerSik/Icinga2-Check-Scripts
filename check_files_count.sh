@@ -2,7 +2,8 @@
 #
 # Count files in directory and gives OK / WARNING / CRITICAL
 #
-# Roger Sikorski <roger@sikorski.cc>
+# Roger Sikorski 
+# https://github.com/RogerSik/Icinga2-Check-Scripts
 #
 # Usage (Example)
 # ./check_files_count.sh -p / -w 10 -c 20
