@@ -2,8 +2,8 @@
 #
 # Check if service is running with systemctl
 #
-# Roger Sikorski <r.sikorski@basecom.de> <roger@sikorski.cc>
-#
+# Roger Sikorski 
+# https://github.com/RogerSik/Icinga2-Check-Scripts
 
 #OK=0
 #WARNING=1
